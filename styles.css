@@ -32,7 +32,20 @@ padding: 20px;
 
 }
 .info-basica h1 {
-
-
-    
+   font-size: 28px;
+   color: #333
+}
+.info-basica p {
+   font-size: 16px;
+   color: #666
+}
+.sessao h2 {
+   font-size: 22px
+   color: #6c63ff;
+   border-left: 5px solid #6363ff;
+   padding-left: 10px;
+   margin-bottom: 10px;
+}
+.sessao ul {
+   list-style:
 }
